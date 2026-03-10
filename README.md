@@ -11,7 +11,7 @@ This repository contains machine learning and data science projects demonstratin
 
 ## Projects
 
-### Loan Approval Prediction
+### Loan Approval Prediction - CreditRiskAnalyzer
 Machine learning model to predict loan approval using classification algorithms such as Logistic Regression, Random Forest, and SVM.
 
 ### Credit Risk Prediction
